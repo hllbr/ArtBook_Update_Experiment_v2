@@ -1,0 +1,2 @@
+rootProject.name = "ArtBook_Update_Experiment_v2"
+include ':app'
